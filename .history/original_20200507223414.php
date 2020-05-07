@@ -6,8 +6,7 @@
 </head>
 <body>
 <form method="post" action = "original2.php">
-<label for = "name">名前:</label>
-<!-- name属性をnameに設定しているからoriginal2.phpに情報を送れる -->
+<label for = "nxame">名前:</label>
 <input id = "name" type = "text" name = "name" size = "15" />
 <input type = "submit" value = "送信">
 </form>
