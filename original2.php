@@ -5,6 +5,6 @@
 <title>入力データ</title>
 </head>
 <body>
-    こんにちは、<?=$_POST['name'] ?>さん！
+    こんにちは、test<?=$_POST['name'] ?>さん！
 </body>
 </html>
