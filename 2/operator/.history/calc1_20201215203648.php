@@ -14,6 +14,5 @@
     echo'挨拶は',$message,PHP_EOL;
 
     $greeting = 'Good Morning';
-    $message = $greeting ??'Hello';
-    echo '挨拶は',$message,PHP_EOL;
+    $message 
 ?>
